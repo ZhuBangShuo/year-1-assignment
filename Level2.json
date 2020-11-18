@@ -1,0 +1,32 @@
+{
+    "name" : "LEVEL 2",
+    "next level" : "Level3.json",
+    "bricks" : [
+        {
+            "x" : 0,
+            "y" : 0,
+            "id" : "brick_blue"
+        }
+        {
+            "x" : 500,
+            "y" : 0,
+            "id" : "brick_red"
+        }
+        {
+            "x" : 0,
+            "y" : 200,
+            "id" : "brick_green"
+        }
+        {
+            "x" : 500,
+            "y" : 100,
+            "id" : "brick_blue",
+        }
+        {
+            "x" : 200,
+            "y" : 200,
+            "id" : "brick_blue",
+        }
+        
+    ]
+}

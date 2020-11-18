@@ -1,0 +1,11 @@
+{
+    "name" : "FINAL LEVEL",
+    "next level" : null,
+    "bricks" : [
+        {
+            "x" : 0,
+            "y" :200,
+            "id" : "brick_red"
+        }
+    ]
+}

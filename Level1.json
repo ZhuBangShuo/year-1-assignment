@@ -1,0 +1,11 @@
+{
+    "name" : "LEVEL 1",
+    "next level" : "Level2.json",
+    "bricks" : [
+        {
+            "x" : 0,
+            "y" : 200,
+            "id" : "brick_green"
+        }
+    ]
+}
